@@ -1,0 +1,13 @@
+C:\Users\Sergey\source\repos\Task1\bin\Debug\Database1.mdf
+C:\Users\Sergey\source\repos\Task1\bin\Debug\Database1_log.ldf
+C:\Users\Sergey\source\repos\Task1\bin\Debug\Task1.exe.config
+C:\Users\Sergey\source\repos\Task1\bin\Debug\Task1.exe
+C:\Users\Sergey\source\repos\Task1\bin\Debug\Task1.pdb
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.exe
+C:\Users\Sergey\source\repos\Task1\obj\Debug\Task1.pdb
